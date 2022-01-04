@@ -71,7 +71,7 @@ h1{
     height: 356px;
     width: 435px;
     margin-left: 86px;
-    box-shadow: 6px 9px 10px 10px #ebe1e1;
+    box-shadow: 15px 9px 10px 10px #ebe1e1;
     
 }
 .card-header h1 {
@@ -87,7 +87,7 @@ h1{
     
 }
 .card-header-2 {
-    border-image: linear-gradient(#12f4ff, #412de3);
+    border-image: linear-gradient(#12f4ff, #412de3) ;
     border-image-slice: 1;
     border-left: 10px solid;
 }
@@ -96,4 +96,13 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
    
+}
+.footer-section{
+
+}
+.footer-section p {
+    background: #bfbfbf;
+    margin: 40px 0px;
+    text-align: center;
+    font-size: 20px;
 }
